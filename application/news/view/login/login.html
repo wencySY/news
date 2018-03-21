@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>登陆</title>
+	<link rel="stylesheet" type="text/css" href="__STATIC__/css/css.css">
+	<script type="text/javascript" src="__STATIC__/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="__STATIC__/js/js.js"></script>
+</head>
+<body class="body">
+	<div class="all">
+	  <div class="allA">
+	  <b class="allAa">欢迎登陆</b>
+	  </div>
+	  <div class="allB">	  	
+		<form name="form" class="form" method="post" action="login"  id="aaa">
+			用户名:<input type="text" name="username" id="username"><br/>
+			密&nbsp;&nbsp;码:<input type="password" name="password" id="password"><br/>
+			验证码:<input type="text" name="captcha" id="yzm"> <span class="yy"><img src="{:captcha_src()}" alt="captcha" id="yzmimg" /></span><br/>
+			<input type="button" value="登陆" id="button"> 
+			<a href="{:url('register')}"><input type="button" value="注册" id="button1"></a>
+		</form>
+	  </div>
+	</div>
+</body>	  	
+<script type="text/javascript">
+
+
+	var data=null;
+    var form=document.getElementById('aaa');
+    var input=document.getElementsByTagName('input');
+    var imgs=document.getElementById('yzmimg');
+    var info=null;
+    var aaa=null;
+
+	//验证码点击刷新
+	$('#yzmimg').click(function(){
+	    	this.src="{:captcha_src()}?d="+Math.random();
+    });
+	
+	//给登录按钮绑定点击事件
+    $('#button').click(function(){
+        //事件处理程序
+        var res=myCheck();
+        if (res) {
+        	$.ajax({
+
+        		url:"yzm",
+        		type:'POST',
+        		data:{
+        			captcha:input['2'].value
+        		},
+        		success:function(data){
+        			info=data;
+        		}
+
+        	});
+        };
+        if (info) {
+        	$.ajax({
+
+        		url:"yzm",
+        		type:'POST',
+        		data:{
+        			username:input['0'].value,
+        			password:input['1'].value,
+        		},
+        		success:function(data){
+        			aaa=data;
+        		}
+        	});
+        	if (aaa='1') {
+        		// alert('撒地方个好几款');
+        		window.location.href="http://localhost:8080/news/public/news/Index/index";
+        	}else{
+        		alert('用户名或密码不存在');
+        	}
+        }else{
+        	alert('验证码错误');
+        }
+        
+    });
+
+
+
+
+    
+
+
+
+
+
+	
+</script>
+</html>

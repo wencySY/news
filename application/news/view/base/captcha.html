@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录</title>
+    <script type="text/javascript" src="__STATIC__/js/jquery-3.2.1.js"></script>
+</head>
+<body>
+    <form id="kk">
+         <input type="text" name="name">用户名<br/>
+     <img id='imgs' src="{:captcha_src()}"><input type="text" name="captcha"><br/>
+         <input type="text" name="pass">密码<br/>
+     
+         <input type="button"  value="登录" id="button">
+    </form>
+    <script type="text/javascript">
+        var ddd=null;
+    var okk=document.getElementById('kk');
+    var  ovl=okk.getElementsByTagName('input');
+    var imgs=document.getElementById('imgs');
+          $(function(){
+              $('#button').click(function(){
+              	  $.ajax({
+              	  	  url:'login',
+              	  	  type:'POST',
+              	  	  data:{
+                          name:ovl[0].value,
+                          pass:ovl[2].value
+                      },
+              	  	  success:function(data){
+                          ddd=JSON.parse(data);
+                           switch(ddd.status){
+                               case 0:
+                                  alert('用户名不存在');
+                               break;
+                               case 1:
+                                  window.location.href="admin";
+                               break;
+                               case 2:
+                                  alert('密码出错');
+                               break;
+                               default:
+                                  alert('服务器出错');
+                           } 
+              	  	  }
+              	  });
+              });
+         imgs.onclick=function(){
+             this.src="{:captcha_src()}?d='+Math.random()";
+         }
+        ovl[1].onblur=function(){
+            //alert(ovl[2].value);
+            $.ajax(
+            {
+                 url:'checkmy',
+                 type:'POST',
+                 data:{
+                    captcha:ovl[1].value
+                  },
+                  success:function(datas){
+                        alert(datas);
+                  }
+            });
+            
+          }
+          });
+    </script>
+</body>
+</html>
