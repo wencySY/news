@@ -1,0 +1,3487 @@
+---------------------------------------------------------------
+[ 2018-02-28T14:10:17+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.067004s][吞吐率：14.92req/s] [内存消耗：1,482.84kb] [文件加载：36]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:10:25+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,483.09kb] [文件加载：36]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:10:25+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,483.09kb] [文件加载：36]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:10:26+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,483.09kb] [文件加载：36]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:10:26+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,483.09kb] [文件加载：36]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:12:15+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,608.23kb] [文件加载：41]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:12:44+08:00 ] 0.0.0.0 GET /tp5/Public/dsajk
+[ info ] localhost:8080/tp5/Public/dsajk [运行时间：0.045002s][吞吐率：22.22req/s] [内存消耗：1,637.98kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'dsajk',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:13:48+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin
+[ info ] localhost:8080/tp5/Public/index.php/Admin [运行时间：0.060003s][吞吐率：16.67req/s] [内存消耗：1,633.62kb] [文件加载：45]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->index[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： boolean[H:\wamp\www\tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2018-02-28T14:13:54+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/add
+[ info ] localhost:8080/tp5/Public/index.php/Admin/add [运行时间：0.056003s][吞吐率：17.86req/s] [内存消耗：1,645.00kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'add',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:14:14+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/add/das
+[ info ] localhost:8080/tp5/Public/index.php/Admin/add/das [运行时间：0.055004s][吞吐率：18.18req/s] [内存消耗：1,645.09kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'add',
+    2 => 'das',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:14:45+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/dskla
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/dskla [运行时间：0.057004s][吞吐率：17.54req/s] [内存消耗：1,640.63kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'dskla',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:15:04+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/index/dskla
+[ info ] localhost:8080/tp5/Public/index.php/Admin/index/dskla [运行时间：0.054003s][吞吐率：18.52req/s] [内存消耗：1,640.63kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'index',
+    2 => 'dskla',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:15:09+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/index/
+[ info ] localhost:8080/tp5/Public/index.php/Admin/index/ [运行时间：0.059003s][吞吐率：16.95req/s] [内存消耗：1,633.90kb] [文件加载：45]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->index[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： boolean[H:\wamp\www\tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2018-02-28T14:21:51+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/index/test [运行时间：0.057003s][吞吐率：17.54req/s] [内存消耗：1,919.38kb] [文件加载：51]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:H:\wamp\www\tp5\public/../application/admin\view\index\aaa.html[H:\wamp\www\tp5\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-02-28T14:22:14+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,919.38kb] [文件加载：51]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:H:\wamp\www\tp5\public/../application/admin\view\index\aaa.html[H:\wamp\www\tp5\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-02-28T14:22:52+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.056003s][吞吐率：17.86req/s] [内存消耗：1,919.60kb] [文件加载：51]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:H:\wamp\www\tp5\public/../application/admin\view\index\test.html[H:\wamp\www\tp5\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2018-02-28T14:23:25+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.060003s][吞吐率：16.67req/s] [内存消耗：2,045.23kb] [文件加载：51]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:23:44+08:00 ] 0.0.0.0 GET /tp5/Public/Index/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/Index/index.php/Admin/Index/test [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：1,644.88kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'index.php',
+    2 => 'Admin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'Index' => 'test',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:23:52+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,889.66kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:24:32+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：1,889.66kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:24:54+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.040003s][吞吐率：25.00req/s] [内存消耗：1,889.96kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:25:08+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,889.96kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:43:30+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,889.66kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:49:03+08:00 ] 0.0.0.0 GET /tp5/Public/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/Admin/Index/test [运行时间：0.056003s][吞吐率：17.86req/s] [内存消耗：1,889.31kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:51:41+08:00 ] 0.0.0.0 GET /tp5/Public/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/Admin/Index/test [运行时间：0.054003s][吞吐率：18.52req/s] [内存消耗：1,889.71kb] [文件加载：49]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ VIEW ] H:\wamp\www\tp5\public/../application/admin\view\index\test.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T14:59:05+08:00 ] 0.0.0.0 GET /tp5/Public/Admin/Index/test
+[ info ] localhost:8080/tp5/Public/Admin/Index/test [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T14:59:16+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.045002s][吞吐率：22.22req/s] [内存消耗：1,640.40kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T14:59:45+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,640.47kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T14:59:46+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,640.45kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T14:59:46+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.069004s][吞吐率：14.49req/s] [内存消耗：1,640.45kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T14:59:46+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.040003s][吞吐率：25.00req/s] [内存消耗：1,640.47kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:01:46+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.036003s][吞吐率：27.78req/s] [内存消耗：1,640.38kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:14+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.061004s][吞吐率：16.39req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:15+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:15+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.073005s][吞吐率：13.70req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:15+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:15+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:16+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:16+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/aaa
+[ info ] localhost:8080/tp5/Public/index.php/aaa [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,640.56kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:43+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/
+[ info ] localhost:8080/tp5/Public/index.php/ [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,640.38kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:02:49+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/
+[ info ] localhost:8080/tp5/Public/index.php/ [运行时间：0.049003s][吞吐率：20.41req/s] [内存消耗：1,640.50kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:03:18+08:00 ] 0.0.0.0 GET /tp5/Public/
+[ info ] localhost:8080/tp5/Public/ [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,640.32kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:03:26+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,640.25kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:04:03+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.046002s][吞吐率：21.74req/s] [内存消耗：1,640.47kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:04:03+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,640.47kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:04:04+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,640.47kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Route' not found[H:\wamp\www\tp5\application\route.php:12]
+---------------------------------------------------------------
+[ 2018-02-28T15:04:38+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.057004s][吞吐率：17.54req/s] [内存消耗：1,611.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:05:35+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,611.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:05:36+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,611.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:05:36+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,611.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:05:36+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.049003s][吞吐率：20.41req/s] [内存消耗：1,611.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:09:48+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.065004s][吞吐率：15.38req/s] [内存消耗：1,611.45kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:09:59+08:00 ] 0.0.0.0 GET /tp5/Public/aaa
+[ info ] localhost:8080/tp5/Public/aaa [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,611.76kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:10:12+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,612.46kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:10:20+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,612.91kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:14+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,613.17kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:18+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.040003s][吞吐率：25.00req/s] [内存消耗：1,613.17kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:33+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,613.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:34+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,613.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:34+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,613.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:34+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,613.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:14:35+08:00 ] 0.0.0.0 GET /tp5/Public/aaa/name/sahnghai
+[ info ] localhost:8080/tp5/Public/aaa/name/sahnghai [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,613.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'sahnghai',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:26:11+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index_Admin/name/sahnghai
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index_Admin/name/sahnghai [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,641.48kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index_Admin',
+    2 => 'name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:26:24+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/IndexAdmin/name/sahnghai
+[ info ] localhost:8080/tp5/Public/index.php/Admin/IndexAdmin/name/sahnghai [运行时间：0.046003s][吞吐率：21.74req/s] [内存消耗：1,645.11kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'IndexAdmin',
+    2 => 'name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:26:47+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index_Admin/
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index_Admin/ [运行时间：0.050002s][吞吐率：20.00req/s] [内存消耗：1,634.58kb] [文件加载：45]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index_Admin',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\IndexAdmin->index[ H:\wamp\www\tp5\application\Admin\controller\IndexAdmin.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： boolean[H:\wamp\www\tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2018-02-28T15:26:56+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index_Admin/test
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index_Admin/test [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,610.16kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index_Admin',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\IndexAdmin->test[ H:\wamp\www\tp5\application\Admin\controller\IndexAdmin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:27:08+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index_Admin/test/name/shanghia
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index_Admin/test/name/shanghia [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,610.59kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index_Admin',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\IndexAdmin->test[ H:\wamp\www\tp5\application\Admin\controller\IndexAdmin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:27:39+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index_Admin/test/name/shanghia
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index_Admin/test/name/shanghia [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,646.13kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index_Admin',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:27:50+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test/name/shanghia [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,647.64kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:27:54+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test/name/shanghia [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,610.92kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:30:15+08:00 ] 0.0.0.0 GET /tp5/Public/index.php/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/Public/index.php/Admin/Index/test/name/shanghia [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,610.92kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; thinkphp_show_page_trace=0|5; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:31:05+08:00 ] 0.0.0.0 GET /tp5/public/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/public/Admin/Index/test/name/shanghia [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,610.08kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:31:38+08:00 ] 0.0.0.0 GET /tp5/public/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/public/Admin/Index/test/name/shanghia [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,610.40kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:38:14+08:00 ] 0.0.0.0 GET /tp5/public/Admin/Index/test/name/shanghia
+[ info ] localhost:8080/tp5/public/Admin/Index/test/name/shanghia [运行时间：0.054003s][吞吐率：18.52req/s] [内存消耗：1,642.20kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:23+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,641.98kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:41+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,642.17kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:41+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,642.17kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:42+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,642.17kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:42+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,642.17kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:42+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,642.26kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:42+08:00 ] 0.0.0.0 GET /tp5/public/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/aaa/name/shanghia [运行时间：0.039003s][吞吐率：25.64req/s] [内存消耗：1,642.17kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:38:57+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,642.01kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+[ error ] [2]array_shift() expects parameter 1 to be array, string given[H:\wamp\www\tp5\thinkphp\library\think\Route.php:437]
+---------------------------------------------------------------
+[ 2018-02-28T15:40:04+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,642.95kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:05+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,642.95kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:05+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,642.95kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:05+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,642.90kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:06+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,642.95kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:06+08:00 ] 0.0.0.0 GET /tp5/public/index.php/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/aaa/name/shanghia [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,642.95kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'aaa',
+    1 => 'name',
+    2 => 'shanghia',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:27+08:00 ] 0.0.0.0 GET /tp5/public/index.php/admin/aaa/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/admin/aaa/name/shanghia [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,649.18kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'aaa',
+    2 => 'name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:47+08:00 ] 0.0.0.0 GET /tp5/public/index.php/admin/index/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/admin/index/name/shanghia [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,641.05kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'name',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:40:56+08:00 ] 0.0.0.0 GET /tp5/public/index.php/admin/index/test/name/shanghia
+[ info ] localhost:8080/tp5/public/index.php/admin/index/test/name/shanghia [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,609.96kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:43:14+08:00 ] 0.0.0.0 GET /tp5/public/admin/index/test/name/shanghia
+[ info ] localhost:8080/tp5/public/admin/index/test/name/shanghia [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,609.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'shanghia',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:43:18+08:00 ] 0.0.0.0 GET /tp5/public/admin/
+[ info ] localhost:8080/tp5/public/admin/ [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,634.31kb] [文件加载：45]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->index[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： boolean[H:\wamp\www\tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2018-02-28T15:50:41+08:00 ] 0.0.0.0 GET /tp5/public/test/wency
+[ info ] localhost:8080/tp5/public/test/wency [运行时间：0.046002s][吞吐率：21.74req/s] [内存消耗：1,643.11kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'wency',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:51:49+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,646.95kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:52:46+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,647.30kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:53:07+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,647.30kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:53:08+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,647.30kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:53:08+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：1,647.30kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:53:08+08:00 ] 0.0.0.0 GET /tp5/public/admin/test/wency
+[ info ] localhost:8080/tp5/public/admin/test/wency [运行时间：0.046003s][吞吐率：21.74req/s] [内存消耗：1,647.30kb] [文件加载：46]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'test',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:54:11+08:00 ] 0.0.0.0 GET /tp5/public/test/wency
+[ info ] localhost:8080/tp5/public/test/wency [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,647.88kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => 'test',
+    2 => 'name',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'wency',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:55:15+08:00 ] 0.0.0.0 GET /tp5/public/test/wency
+[ info ] localhost:8080/tp5/public/test/wency [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：1,613.65kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'wency',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:55:24+08:00 ] 0.0.0.0 GET /tp5/public/test/nihao
+[ info ] localhost:8080/tp5/public/test/nihao [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,613.30kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'nihao',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:56:25+08:00 ] 0.0.0.0 GET /tp5/public/test
+[ info ] localhost:8080/tp5/public/test [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,640.06kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'test',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:56:36+08:00 ] 0.0.0.0 GET /tp5/public/admin
+[ info ] localhost:8080/tp5/public/admin [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,636.59kb] [文件加载：45]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\Admin\controller\Index->index[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： boolean[H:\wamp\www\tp5\thinkphp\library\think\Response.php:318]
+---------------------------------------------------------------
+[ 2018-02-28T15:56:44+08:00 ] 0.0.0.0 GET /tp5/public/test/haha
+[ info ] localhost:8080/tp5/public/test/haha [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,613.44kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'haha',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T15:59:11+08:00 ] 0.0.0.0 GET /tp5/public/test
+[ info ] localhost:8080/tp5/public/test [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,613.42kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => NULL,
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:03:11+08:00 ] 0.0.0.0 GET /tp5/public/test/hah
+[ info ] localhost:8080/tp5/public/test/hah [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,613.68kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:03:35+08:00 ] 0.0.0.0 GET /tp5/public/test/hah
+[ info ] localhost:8080/tp5/public/test/hah [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,613.71kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:04:15+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency
+[ info ] localhost:8080/tp5/public/test/hah/wency [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,613.63kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:04:25+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,614.13kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:04:34+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.046003s][吞吐率：21.74req/s] [内存消耗：1,641.12kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'test',
+    1 => 'hah',
+    2 => 'wency',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:04:40+08:00 ] 0.0.0.0 GET /tp5/public/test/hah
+[ info ] localhost:8080/tp5/public/test/hah [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,613.90kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:04:48+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,640.62kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'test',
+    1 => 'hah',
+    2 => 'bbb',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:17+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,613.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:21+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,613.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:21+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：1,613.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:21+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,613.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:22+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/bbb
+[ info ] localhost:8080/tp5/public/test/hah/bbb [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：1,613.99kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:05:29+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,614.15kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:26:58+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.040003s][吞吐率：25.00req/s] [内存消耗：1,614.55kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:26:59+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.049002s][吞吐率：20.41req/s] [内存消耗：1,614.54kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:27:00+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.047003s][吞吐率：21.28req/s] [内存消耗：1,614.54kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:27:00+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/wency/bbb
+[ info ] localhost:8080/tp5/public/test/hah/wency/bbb [运行时间：0.049003s][吞吐率：20.41req/s] [内存消耗：1,614.54kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+  'wency' => 'bbb',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:27:06+08:00 ] 0.0.0.0 GET /tp5/public/test/hah/
+[ info ] localhost:8080/tp5/public/test/hah/ [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,613.75kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'hah',
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:27:12+08:00 ] 0.0.0.0 GET /tp5/public/test
+[ info ] localhost:8080/tp5/public/test [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,613.58kb] [文件加载：43]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'Index',
+    2 => 'test',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => NULL,
+)
+[ info ] [ RUN ] app\Admin\controller\Index->test[ H:\wamp\www\tp5\application\Admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:42:33+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello
+[ info ] localhost:8080/tp5/public/index/index/hello [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,612.07kb] [文件加载：41]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->hello[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:42:58+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello
+[ info ] localhost:8080/tp5/public/index/index/hello [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,612.18kb] [文件加载：41]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->hello[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:43:29+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello?name=tp
+[ info ] localhost:8080/tp5/public/index/index/hello?name=tp [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,612.43kb] [文件加载：41]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'tp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:45:48+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello1
+[ info ] localhost:8080/tp5/public/index/index/hello1 [运行时间：0.046003s][吞吐率：21.74req/s] [内存消耗：1,656.94kb] [文件加载：44]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected ';', expecting '{'[H:\wamp\www\tp5\application\index\controller\Index.php:7]
+---------------------------------------------------------------
+[ 2018-02-28T16:46:16+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello1
+[ info ] localhost:8080/tp5/public/index/index/hello1 [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,936.54kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello1',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->hello1[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:57:59+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello.html?test=ddd&name=thinkphp [运行时间：0.068004s][吞吐率：14.71req/s] [内存消耗：1,938.30kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:58:12+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3?test=ddd&name=thinkphp [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,938.38kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:59:32+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,938.36kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:59:35+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,938.63kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:59:35+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,938.63kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:59:35+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.065004s][吞吐率：15.38req/s] [内存消耗：1,938.63kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T16:59:35+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：1,938.63kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:35+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.054004s][吞吐率：18.52req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:36+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.056004s][吞吐率：17.86req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:36+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:36+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.047002s][吞吐率：21.28req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:36+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.049002s][吞吐率：20.41req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:00:37+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello3.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello3.html?test=ddd&name=thinkphp [运行时间：0.059004s][吞吐率：16.95req/s] [内存消耗：1,938.73kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello3',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello3[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:08:44+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello.html?test=ddd&name=thinkphp [运行时间：0.043002s][吞吐率：23.25req/s] [内存消耗：1,939.91kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-02-28T17:08:55+08:00 ] 0.0.0.0 GET /tp5/public/index/index/hello4.html?test=ddd&name=thinkphp
+[ info ] localhost:8080/tp5/public/index/index/hello4.html?test=ddd&name=thinkphp [运行时间：0.046003s][吞吐率：21.74req/s] [内存消耗：1,940.00kb] [文件加载：47]
+[ info ] [ LANG ] H:\wamp\www\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello4',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8080',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=pc6d3ljp6dof2trik35j3cflj2',
+)
+[ info ] [ PARAM ] array (
+  'test' => 'ddd',
+  'name' => 'thinkphp',
+)
+[ info ] [ RUN ] app\index\controller\Index->hello4[ H:\wamp\www\tp5\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
